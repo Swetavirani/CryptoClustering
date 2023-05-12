@@ -21,24 +21,17 @@ The project includes the following visualizations:
 Elbow curve for the original data.
 ![image](https://github.com/Swetavirani/CryptoClustering/assets/102982635/26535af3-0295-46ea-95e9-0f10c54d17a3)
 
-
-
 Scatter plot of cryptocurrency clusters based on the original data:
 ![image](https://github.com/Swetavirani/CryptoClustering/assets/102982635/e80223e1-b81d-4436-a5b2-35ebd06cb908)
-
-
 
 Elbow curve for the PCA data.
 ![image](https://github.com/Swetavirani/CryptoClustering/assets/102982635/200e4835-75aa-4641-91cb-d09846a82e49)
 
-
 Scatter plot of cryptocurrency clusters based on the PCA data.
 ![image](https://github.com/Swetavirani/CryptoClustering/assets/102982635/41bf61de-dea9-429c-8a6c-e53a305c0da6)
 
-
 Combined Elbow curves ( with original data and PC data)
 ![image](https://github.com/Swetavirani/CryptoClustering/assets/102982635/f429353e-7be6-40ae-8c8f-2ef74a86f03f)
-
 
 Scatter plot of cryptocurrency clusters based on original data and PC data
 ![image](https://github.com/Swetavirani/CryptoClustering/assets/102982635/7fb76c86-7278-44f2-bed4-f18ca80b1c76)
