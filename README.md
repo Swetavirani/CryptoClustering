@@ -17,6 +17,7 @@ The Crypto Clustering project aims to predict if cryptocurrencies are affected b
 
 Results
 The project includes the following visualizations:
+
 Elbow curve for the original data.
 
 ![image](https://github.com/Swetavirani/CryptoClustering/assets/102982635/26535af3-0295-46ea-95e9-0f10c54d17a3)
